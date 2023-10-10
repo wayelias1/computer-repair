@@ -1,6 +1,6 @@
 <section class="hero is-medium">
     <div class="hero-head">
-        <div class="title has-text-align-center">
+        <div class="title has-text-align-center mt-6">
             <h2>What do we do?</h2>
         </div>
     </div>

@@ -1,6 +1,6 @@
 <section class="hero is-medium is-link has-text-white">
     <div class="hero-head">
-        <h3 class="title has-text-align-center has-text-white">
+        <h3 class="title is-1 has-text-align-center has-text-white mt-6">
             WHAT OUR CLIENTS SAY
         </h3>
     </div>

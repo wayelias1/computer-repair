@@ -16,10 +16,10 @@
             <p>we can repair and upgrade your equipment, help you recover lost data. remove virus infectios and more...</p>
           </div>
           <div class="column is-5">
-            <form action="" class="has-background-light has-padding-70">
-              <div>
-                <h3 class="title is-1 has-text-align-center has-text-dark">Looking for us to help you?</h3>
-                <div></div>
+            <form action="" class="has-background-light has-padding-60">
+              <div class="is-flex flex-column is-align-items-center pb-6 has-text-align-center">
+                <h3 class="title is-1 has-text-dark has-text-weight-bold">Looking for us to help you?</h3>
+                <div class="has-background-dark is-half-width has-padding-top-5"></div>
               </div>
               <div class="field">
                 <p class="control">
