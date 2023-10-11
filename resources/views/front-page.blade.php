@@ -4,9 +4,9 @@
 
 @include('partials.hero')
 
-@include('info')
-@include('info2')
-@include('info3')
-@include('info4')
+@include('partials.info')
+@include('partials.info2')
+@include('partials.info3')
+@include('partials.info4')
 
 @endsection
