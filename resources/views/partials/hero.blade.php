@@ -50,9 +50,4 @@
     </div>
     
   </section>
-    @extends('partials.info4')
-    @extends('partials.info3')
-    @extends('partials.info2')
-    @extends('partials.info')
-    
 </div>
